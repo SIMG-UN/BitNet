@@ -7,6 +7,8 @@ Corpus de ~1.5 billones (~15 GB comprimido) de palabras en español compiladas a
   https://www.kaggle.com/datasets/felixludos/babel-briefings
 Más que todo son noticias, es muy pequeño pero está enfocado en titulares de noticias. Mejor para fine‑tuning en tareas específicas, no para preentrenamiento desde cero.
 
+Idea, LLM para enseñar mates a niños de primaria:
+  https://huggingface.co/datasets/CJJones/Elementary_Math_Word_Problems_LLM_Training_Short
   
 
 
