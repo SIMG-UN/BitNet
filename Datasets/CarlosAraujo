@@ -1,17 +1,5 @@
 CarlosAraujo
 Datasets que me gustaron:
 
-🔗 https://huggingface.co/datasets/spanish_billion_words
-Este es un dataset de textos en español provenientes de Wikipedia, Europarl, y otros recursos. Me gustó porque está completamente en español y es ideal para preentrenar modelos de lenguaje.
 
-🔗 https://huggingface.co/datasets/large_spanish_corpus
-Este es un dataset de textos en español de diversas fuentes como OpenSubtitles, Wikipedia y Common Crawl. Me gustó porque contiene múltiples dominios y estilos de escritura en español.
 
-🔗 https://huggingface.co/datasets/CulturaX
-Este es un dataset de texto multilingüe con alto volumen y limpieza, incluye español entre muchos otros idiomas. Me gustó porque es útil para entrenar un modelo multilingüe robusto.
-
-🔗 https://huggingface.co/PlanTL-GOB-ES/corpus
-Este es un dataset del proyecto MarIA, basado en textos recopilados por la Biblioteca Nacional de España. Me gustó porque es un corpus de alta calidad y bien curado para modelos en español.
-
-🔗 https://www.kaggle.com/datasets/caarlos0/babel-briefings
-Este es un dataset de titulares de noticias multilingües, incluyendo español. Me gustó mucho por su estructura paralela (traducciones) y por ser útil en tareas de comprensión y traducción automática.
